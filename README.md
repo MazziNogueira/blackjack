@@ -14,3 +14,5 @@ Projeto criado com duas versões do jogo **BlackJack** (conhecido também como [
 - A partida é iniciada com cada player (no nosso caso, pessoa usuária e computador) **recebendo duas cartas**. A pontuação de cada player é a soma do valor das suas cartas.
 
 - Vence o player que atingir maior pontuação, sem estourar o total de 21 pontos.
+
+build do projeto **[aqui](https://blackjack-mazzinogueira.surge.sh/)**
