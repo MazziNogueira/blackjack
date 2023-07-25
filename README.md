@@ -15,4 +15,4 @@ Projeto criado com duas versões do jogo **BlackJack** (conhecido também como [
 
 - Vence o player que atingir maior pontuação, sem estourar o total de 21 pontos.
 
-build do projeto **[aqui](https://blackjack-mazzinogueira.surge.sh/)**
+Acesse a build do projeto **[aqui](https://blackjack-mazzinogueira.surge.sh/)**!
