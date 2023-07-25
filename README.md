@@ -1,5 +1,5 @@
 # BlackJack
-Projeto criado com duas versões do jogo **BlackJack** (conhecido também como <a href="https://pt.wikipedia.org/wiki/Blackjack" target="_blank">'21'</a>).
+Projeto criado com duas versões do jogo **BlackJack** (conhecido também como ['21'](https://pt.wikipedia.org/wiki/Blackjack)).
 
    Veja abaixo as regras básicas do BlackJack:
 
@@ -15,4 +15,4 @@ Projeto criado com duas versões do jogo **BlackJack** (conhecido também como <
 
 - Vence o player que atingir maior pontuação, sem estourar o total de 21 pontos.
 
-Acesse a build do projeto <a href="https://blackjack-mazzinogueira.surge.sh/" target="_blank"><strong>aqui</strong></a>!
+Acesse a build do projeto **[aqui](https://blackjack-mazzinogueira.surge.sh/)**!
